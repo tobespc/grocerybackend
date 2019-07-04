@@ -1,0 +1,17 @@
+********************************************************************************
+product = WebSphere Application Server 17.0.0.4 (wlp-1.0.19.201712061531)
+wlp.install.dir = /Users/tobes/workspaces/git/grocerybackend/target/liberty/wlp/
+server.output.dir = /Users/tobes/workspaces/git/grocerybackend/target/liberty-alt-output-dir/defaultServer/
+java.home = /Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre
+java.version = 1.8.0_151
+java.runtime = Java(TM) SE Runtime Environment (1.8.0_151-b12)
+os = Mac OS X (10.14.5; x86_64) (en_GB)
+process = 58512@tobys-mbp.hursley.uk.ibm.com
+********************************************************************************
+[04/07/19 10:58:43:420 BST] 0000000c com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server defaultServer has been launched.
+[04/07/19 10:58:43:434 BST] 0000000c com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0100I: This product is licensed for development, and limited production use. The full license terms can be viewed here: https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/license/base_ilan/ilan/17.0.0.4/lafiles/en.html
+[04/07/19 10:58:44:261 BST] 0000000c com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 0.84 seconds
+[04/07/19 10:58:44:294 BST] 0000001a com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[04/07/19 10:58:44:311 BST] 0000001a com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 0.051 seconds.
+[04/07/19 10:58:44:311 BST] 0000001a com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0036I: The server defaultServer has finished gathering a list of required features.
+[04/07/19 10:58:44:384 BST] 0000000c com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: The server defaultServer stopped after 0.963 seconds.
